@@ -1,3 +1,6 @@
 __pycache__/
 .vscode/
 *.pth
+runs/
+model/
+mnist_train/
